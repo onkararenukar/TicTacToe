@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angulartest-3b3f3": {
+      "hosting": {
+        "TicTacToe": [
+          "angulartest-3b3f3"
+        ]
+      }
+    }
+  }
+}
